@@ -1,5 +1,7 @@
 https://rickandmortyapi.com/
 
+Работа выполнена студентами группы 1370 Чуйко Юлией, Логиновой Анастасией, Косаревской Екатериной и Кузнецовым Дмитрием
+
 Требования к API Rick and Morty
 
 Общие требования:
@@ -21,7 +23,8 @@ https://rickandmortyapi.com/
 
 Use case
 
- ![image](https://github.com/user-attachments/assets/f18838e1-7f02-413b-b2c0-b2ab6a553c58)
+![Снимок экрана (521)](https://github.com/user-attachments/assets/af77d64b-3c31-40c6-8f42-0654fb161f49)
+
 
 
 
